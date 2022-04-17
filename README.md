@@ -43,4 +43,7 @@ Fullstack developer and looking for new opportunities
   &nbsp &nbsp
   
   <img alt="Docker" width="40" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png"/>
+  &nbsp &nbsp
+  
+  <img alt="Linux" width="40" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png"/>
 </div>
