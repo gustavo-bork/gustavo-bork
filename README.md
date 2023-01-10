@@ -1,7 +1,14 @@
 ## 👋 Hi there, I'm Gustavo Bork
 Fullstack developer and looking for new opportunities
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bork&layout=compact&theme=tokyonight)
+<div>
+  <a href="https://github.com/gustavo-bork/github-readme-stats">
+    <img src="http://github-readme-stats-gustavo-bork.vercel.app/api/top-langs/?username=gustavo-bork&theme=tokyonight&langs_count=6&layout=compact" />
+  </a>
+  <a href="https://github.com/gustavo-bork/github-readme-stats">
+    <img src="http://github-readme-stats-gustavo-bork.vercel.app/api?username=gustavo-bork&theme=tokyonight&card_width=400&include_all_commits=true&show_icons=true&line_height=20" />
+  </a>
+</div>
 
 ## Used technlogies
 <div style="display: inline-block">
