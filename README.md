@@ -56,4 +56,6 @@ Fullstack developer and looking for new opportunities
   &nbsp &nbsp
   
   <img alt="Python" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"/>
+  
+  <img alt="Unity" width="40" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/>
 </div>
