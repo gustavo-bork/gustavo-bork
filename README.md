@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Gustavo Bork
-Fullstack developer, Linux enthusiast and looking for new opportunities
+NodeJS and .NET developer, Linux enthusiast and looking for new opportunities
 
 ## Used technlogies
 <div style="display: inline-block">
@@ -25,6 +25,8 @@ Fullstack developer, Linux enthusiast and looking for new opportunities
   <img alt="CSharp" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
   &nbsp &nbsp
   <img alt="DotNet" width="40" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" />
+  &nbsp &nbsp
+  <img alt="xUnit" width="40" src="https://logodix.com/logo/2029138.png" />
   &nbsp &nbsp
   
   <img alt="MySQL" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" />
