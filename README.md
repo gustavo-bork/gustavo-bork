@@ -31,6 +31,8 @@ NodeJS and .NET developer, Linux enthusiast and looking for new opportunities
   
   <img alt="MySQL" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" />
   &nbsp &nbsp
+  <img alt="SQLite" width="80" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
+  &nbsp &nbsp
   
   <img alt="VSCode" width="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
   &nbsp &nbsp
