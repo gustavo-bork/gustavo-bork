@@ -1,50 +1,63 @@
-## 👋 Hi there, I'm Gustavo Bork
-NodeJS and .NET developer, Linux enthusiast and looking for new opportunities
+<h2 align="left">👋 Hi there, I'm Gustavo Bork</h2>
 
-## Used technlogies
-<div style="display: inline-block">
-  
-  <!-- HTML, CSS and JS related -->
-  <img alt="HTML" width="40" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
-  &nbsp &nbsp
-  <img alt="CSS" width="40" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"/>
-  &nbsp &nbsp
-  <img alt="Bootstrap" width="40" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"/>
-  &nbsp &nbsp
-  
-  <img alt="Javascript" width="40" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="Typescript" width="40" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="NodeJS" width="40" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="ReactJS" width="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" />
-  &nbsp &nbsp
-  
-  <!--- C# related --->
-  <img alt="CSharp" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="DotNet" width="40" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="xUnit" width="40" src="https://logodix.com/logo/2029138.png" />
-  &nbsp &nbsp
-  
-  <img alt="MySQL" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="SQLite" width="80" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
-  &nbsp &nbsp
-  
-  <img alt="VSCode" width="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="Visual Studio" width="40" src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" />
-  &nbsp &nbsp
-  
-  <img alt="Git" width="40" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />
-  &nbsp &nbsp
-  
-  <img alt="Linux" width="40" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" />
-  &nbsp &nbsp
-  
-  <img alt="Python" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
-  &nbsp &nbsp
+###
+
+<p align="left">NodeJS and .NET developer, Linux enthusiast and looking for new opportunities</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-bork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-bork&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Used technologies</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">Feel free to contact me 👇</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-mendonca-bork-039a39205/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/bork.gustavo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gustavo-bork/gustavo-bork/output/snake.svg" alt="Snake animation" />
+
+###
